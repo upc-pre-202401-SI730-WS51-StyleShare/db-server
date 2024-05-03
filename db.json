@@ -35,6 +35,40 @@
       "vendedor": "Luis de la Fuente"
 
     }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "username": "John Doe",
+      "email": "john@example.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "d9d4",
+      "username": "Eric ",
+      "email": "correo20@gmial.com",
+      "password": "1234"
+    },
+    {
+      "id": "6a97",
+      "username": "Carlos",
+      "email": "correoprueba@gmail.com",
+      "password": "polloalabrasa"
+    },
+    {
+      "id": "22f0",
+      "username": "Pedro",
+      "email": "cool@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "a2fe",
+      "username": "Eric",
+      "email": "eric@gmail.com",
+      "password": "123"
+    }
   ]
 
 
