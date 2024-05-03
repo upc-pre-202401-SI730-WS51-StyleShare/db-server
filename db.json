@@ -69,6 +69,37 @@
       "email": "eric@gmail.com",
       "password": "123"
     }
+  ],
+  
+  "cartItems": [
+    {
+      "id": 1,
+      "name": "Gafas de Esqui de Alto Rendimiento",
+      "price": 70,
+      "lessor": "Juan Alberto",
+      "logo": "https://tse2.mm.bing.net/th?id=OIP.lV4xVjEEqLcWwzIridOHAAHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 2,
+      "name": "Traje de la Pantera Rosa",
+      "price": 100,
+      "lessor": "Maria Ostrinez",
+      "logo": "https://disfracescamilita.com/wp-content/uploads/2022/10/pantera-rosa.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Conjunto vestimenta de marinera norteña",
+      "price": 100,
+      "lessor": "Rene Magrid",
+      "logo": "https://i.ytimg.com/vi/-QvXNjYeKpU/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Gorra de mario",
+      "price": 50,
+      "lessor": "Mario Bros",
+      "logo": "https://www.elpalaciodehierro.com/on/demandware.static/-/Sites-palacio-master-catalog/default/dw92b3bfb6/images/41147938/large/41147938_x1.jpg"
+    }
   ]
 
 
